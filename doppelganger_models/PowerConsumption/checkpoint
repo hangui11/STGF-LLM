@@ -1,2 +1,2 @@
-model_checkpoint_path: "c:\\Users\\usuario\\Desktop\\\345\214\227\350\210\252\\\346\225\260\346\215\256\346\214\226\346\216\230\\\346\234\237\346\234\253\\doppelganger_models\\PowerConsumption\\doppelganger"
-all_model_checkpoint_paths: "c:\\Users\\usuario\\Desktop\\\345\214\227\350\210\252\\\346\225\260\346\215\256\346\214\226\346\216\230\\\346\234\237\346\234\253\\doppelganger_models\\PowerConsumption\\doppelganger"
+model_checkpoint_path: "doppelganger"
+all_model_checkpoint_paths: "doppelganger"
